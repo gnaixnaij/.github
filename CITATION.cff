@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use any of my tools in your research, please cite them."
+authors:
+  - family-names: "gnaixnaij"
+    given-names: "gnaixnaij"
+    orcid: ""
+title: "Security Research Tools"
+preferred-citation:
+  type: software
+  title: "AI Deobfuscator"
+  version: "1.0.0"
+  doi: ""
+  date-released: 2026-06-29
+  url: "https://github.com/gnaixnaij/deobfuscator"
